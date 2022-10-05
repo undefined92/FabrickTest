@@ -1,0 +1,34 @@
+{
+  "status": "OK",
+  "error": [],
+  "payload": {
+    "list": [
+      {
+        "transactionId": "1345764567001",
+        "operationId": "19000039371017",
+        "accountingDate": "2019-03-11T00:00:00.000+00:00",
+        "valueDate": "2019-03-11T00:00:00.000+00:00",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": "3.00",
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.22300         DATA ORDINE 11032019 TEST"
+      },
+      {
+        "transactionId": "1329140278001",
+        "operationId": "19000017094683",
+        "accountingDate": "2019-02-01T00:00:00.000+00:00",
+        "valueDate": "2019-02-01T00:00:00.000+00:00",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": "89.00",
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.22300         DATA ORDINE 01022019 COPERTURA SPESE"
+      }
+    ]
+  }
+}

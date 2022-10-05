@@ -1,0 +1,4 @@
+endpoint:
+  urlBalanceAccount: "https://sandbox.platfr.io/api/gbs/banking/v4.0/accounts/%s/balance"
+  urlCreateMoneyTransfer: "https://sandbox.platfr.io/api/gbs/banking/v4.0/accounts/%s/payments/money-transfers"
+  urlTransactionsList: "https://sandbox.platfr.io/api/gbs/banking/v4.0/accounts/%s/transactions"
